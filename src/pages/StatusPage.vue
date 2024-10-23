@@ -657,7 +657,6 @@ export default {
         },
 
         "config.title"(title) {
-            console.log(title);
             document.title = title;
         },
 

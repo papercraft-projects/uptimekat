@@ -1,9 +1,30 @@
-<svg width="640" height="640" viewBox="0 0 640 640" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g transform="matrix(1 0 0 1 320 320)">
-<linearGradient id="S3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -319.99875 -320.0001577393)"  x1="259.78" y1="261.15" x2="463.85" y2="456.49">
-<stop stop-color="#5CDD8B"/>
-<stop offset="1" stop-color="#86E6A9"/>
-</linearGradient>
-<path style="stroke: rgb(242,242,242); stroke-opacity: 0.51; stroke-width: 200; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#S3); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M 170.40125 -84.36016 C 224.09125 38.37984 224.09125 115.33984 170.40125 146.49984 C 89.85125000000001 193.23984000000002 -120.03875 207.48984000000002 -180.45875 135.63984 C -220.73875 87.73983999999999 -220.73875 14.399839999999998 -180.45875 -84.36016000000001 C -139.49875 -151.82016 -81.28875000000001 -185.55016 -5.828750000000014 -185.55016 C 69.64124999999999 -185.55016 128.38125 -151.82016000000002 170.40124999999998 -84.36016000000001 z" stroke-linecap="round" />
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="129.364" height="129.364" viewBox="0 0 129.364 129.364">
+    <defs>
+        <clipPath id="dsof3xmbta">
+                <circle data-name="타원 10" cx="63.182" cy="63.182" r="63.182" transform="translate(1.5 1.5)" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="아트웍 15">
+        <g data-name="그룹 15" transform="translate(1.5 1.5)">
+            <circle data-name="타원 6" cx="63.182" cy="63.182" r="63.182" style="stroke:#ff6b00;fill:#ff6b00;stroke-miterlimit:10;stroke-width:3px"/>
+            <circle data-name="타원 7" cx="63.182" cy="63.182" r="63.182" style="fill:#1d1d1d"/>
+            <g data-name="그룹 14">
+                <g data-name="그룹 13" style="clip-path:url(#dsof3xmbta)" transform="translate(-1.5 -1.5)">
+                    <g data-name="그룹 12">
+                        <path data-name="패스 17" d="M64.682 132.044H31.836l6.486-11.112c5.078-7.927 4.861-23.07 4.861-23.07-13.128.248-13.834-4.931-13.834-4.931-1.518 4.915-10.834 4.269-10.834 4.269-11.066 0-11.306-14.467-11.306-14.467 0-13.056 8.232-17.938 8.232-17.938C16.8 30.737 33.275 24.049 33.275 24.049c16.6-9.165 27.136-3.257 30.357-.868a2.965 2.965 0 0 0 2.1 0c3.22-2.389 13.756-8.3 30.356.868 0 0 16.472 6.688 17.834 40.746 0 0 8.232 4.882 8.232 17.938 0 0-.24 14.463-11.306 14.463 0 0-9.316.65-10.834-4.265 0 0-.706 5.179-13.834 4.931 0 0-.216 15.143 4.861 23.07l6.486 11.112H64.682" style="stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;fill:#fff;stroke:#ff6b00"/>
+                        <path data-name="패스 18" d="M17.427 72.523s1.254 13.967 8.319 16.263c0 0 3.841 2.055-1.43 4.822 0 0-10.448 4.362-13.892-5.167 0 0-2.87-8.151 5.281-17.106-.005 0 2.067-1.642 1.722 1.188z"/>
+                        <path data-name="패스 19" d="M111.913 72.523s-1.253 13.967-8.319 16.263c0 0-3.841 2.055 1.431 4.822 0 0 10.447 4.362 13.891-5.167 0 0 2.871-8.151-5.281-17.106 0 0-2.066-1.642-1.722 1.188z"/>
+                        <path data-name="패스 21" d="M50.794 33.58s11.625 3.473 4.678 13.114a27.287 27.287 0 0 1-23.108 12.334s-7.443.567-7.443-10.562c0 0-1.985-19 9.073-18.359a57.871 57.871 0 0 1 16.8 3.473z"/>
+                        <circle data-name="타원 8" cx="3.674" cy="3.674" r="3.674" transform="translate(41.836 38.73)" style="fill:#fff"/>
+                        <path data-name="패스 22" d="M78.571 33.58s-11.626 3.473-4.679 13.114A27.29 27.29 0 0 0 97 59.028s7.443.567 7.443-10.562c0 0 1.985-19-9.074-18.359a57.861 57.861 0 0 0-16.798 3.473z"/>
+                        <circle data-name="타원 9" cx="3.674" cy="3.674" r="3.674" transform="translate(80.181 38.73)" style="fill:#fff"/>
+                        <path data-name="패스 23" d="M64.6 51.473s3.7-.459 3.7-2.755c0 0 .42-1.607-3.7-1.492-4.122-.115-3.7 1.492-3.7 1.492 0 2.296 3.7 2.755 3.7 2.755z"/>
+                        <path data-name="패스 24" d="M57.31 53.784s0 2.31 7.288 2.31v-4.621" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+                        <path data-name="패스 25" d="M71.886 53.784s0 2.31-7.288 2.31v-4.621" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+                        <path data-name="패스 26" d="M64.6 100.83c6.422 0 6.4-4.89 6.4-4.89 0-1.431-1.909 0-1.909 0S67.8 97.312 64.6 97.312s-4.49-1.372-4.49-1.372-1.909-1.431-1.909 0c-.001 0-.025 4.89 6.399 4.89z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
